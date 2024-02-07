@@ -19,8 +19,7 @@
   <img alt="To-do list" src="./frontend.png" width="100%">
 </p>
 
-[Acessar o projeto](https://wsawebmaster.github.io/js-gerador-de-senha
-/)
+[Acessar o projeto](https://wsawebmaster.github.io/js-gerador-de-senha/)
 
 <br />
 
